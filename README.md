@@ -1,2 +1,1 @@
-# sistemas_CMR
-Mi repositorio por mayukis
+Carlos Mayo Romero 41810
