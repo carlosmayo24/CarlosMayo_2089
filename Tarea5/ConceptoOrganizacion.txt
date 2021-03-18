@@ -1,0 +1,12 @@
+La organización de un centro de computo se refiere a crear una estructura para
+determinar las jerarquias para la ejecucion de distintas actividades con el fin
+de hace las actividades mas pequeñas y se simplifiquen en su mayoria
+en otras palabras, esta etapa se encarga de coordinar y ordenar los recursos con
+el fin de obtener  una gran eficiencia organizacional. La organizacion se puede 
+dividir en varios tipos
+puede ser tareas,proyectos, mixtas, etc. 
+Ejemplo
+Un ejemplo para poder conocer la organizacion podria ser
+una area de produccion y control, ya que se verifica
+que los sistemas o programas que produce el departamento
+esten bien estructurados.
